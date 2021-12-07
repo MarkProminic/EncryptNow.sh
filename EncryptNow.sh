@@ -14,8 +14,8 @@ PASS="SomeSecurePassword"
 ## Email for Expiration Notifications
 SUPPORTEMAIL=SomeUser@SomeDomain.TLD
 
-## Name of the file of the key and certss.
-KEYNAME=m4kr.net
+## Name of the file of the key and certs without the ext.
+KEYNAME=mydomain.com
 
 # Where the certificate needs to be placed
 CERTDIR=/ssl/live
